@@ -9,15 +9,15 @@ import Home from "./Views/Home";
 
 
 
-function RouterApp (){
-  return(
+function RouterApp() {
+  return (
     <BrowserRouter>
-     <Switch>
-     <Route exact path="/" component={First} />
-     <Route path="/login" component={LogIn} />
-     <Route path="/singin" component={SingIn} />
-     <Route path="/home" component={Home} />
-     </Switch>
+      <Switch>
+        <Route exact path="/" component={First} />
+        <Route path="/login" component={LogIn} />
+        <Route path="/singin" component={SingIn} />
+        <Route path="/home" component={Home} />
+      </Switch>
     </BrowserRouter>
   );
 }
