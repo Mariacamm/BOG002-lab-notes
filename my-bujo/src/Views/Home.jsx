@@ -1,3 +1,5 @@
+// import logo from './LogoMB.png'
+
 function Home() {
     return (
       <div className="FView">
@@ -7,6 +9,9 @@ function Home() {
             Esta es la vista del home.
           </p>
         </header>
+        <section>
+          
+        </section>
       </div>
     );
   }

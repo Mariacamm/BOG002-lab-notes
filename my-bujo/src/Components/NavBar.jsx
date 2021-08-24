@@ -1,7 +1,7 @@
 // import React from "react";
 // import { NavLink } from "react-router-dom";
 
-// function NavBar() {
+// function () {
 //     return (
 //       <div className="Header">
 //         <header className="LIheader">
