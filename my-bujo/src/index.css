@@ -14,3 +14,16 @@ code {
 .logo{
   height: 20%;
 }
+
+.noteContainer{
+  background-color: aquamarine;
+}
+
+.modal-background {
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(10, 10, 10, 0.86);
+}
